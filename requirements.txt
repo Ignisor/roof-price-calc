@@ -1,1 +1,4 @@
-ipywidgets==7.4.2
+numpy
+matplotlib
+ipywidgets
+jupyter_contrib_nbextensions
